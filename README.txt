@@ -13,6 +13,9 @@ Orain
 - Powerpoint
 
 Olete
+-Presentation of chosen technology
+-Literature review
+-Technology literature review
 
 Espinosa
 - Summary
