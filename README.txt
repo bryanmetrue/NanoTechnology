@@ -7,7 +7,7 @@ Manalaysay
 - Conclusion and Recommendations 
 
 Orain 
-- Introduction and Background of the topic
+- Introduction and Background of the Topic
 - Topic Title
 - Reference
 - Powerpoint
