@@ -21,4 +21,4 @@ Espinosa
 - Objectives of the topic
 - Technology Observation
 - Survey and Technology Evaluation
-- Sumarry
+- Summary
